@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookAppCloneJetpackCompose</string>
+    <string name="text_bookList">bookList</string>
+    <string name="text_bookDetails">bookDetails</string>
+</resources>
